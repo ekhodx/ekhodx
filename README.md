@@ -5,7 +5,7 @@ Born in November 2004, Mark is an early-start self-taught software engineer born
 - Experienced in consulting, managing web tech, teaching and mentoring, onboarding, all for xfn-team members
 - 120+ issues across Github repos created with meaning, aligning dependencies to project cases
 - Russian [libertarian](https://lp.org/worldwide-libertarian-organizations/), future product and business owner
-- Nomading since 17 with 4 years abroad
+- Nomading since 16 with 4 years abroad
 
 Feel free to Join my Discord community to learn Github, code and more:  
 https://discord.gg/mwdwZYB2Yt (25 invites)
