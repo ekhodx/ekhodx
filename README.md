@@ -1,5 +1,6 @@
 Accumulated six years of hands-on TypeScript & Web experience, primarily building scalable Frontend architecture for amazing products and startups.  
-Currently learning Agentic AI and building micro agents skills set to help teams automate reasoning above overlooked aspects and dimensions   
+
+Currently learning Agentic AI and building multi micro agent pipelines with atomic set of tools and skills, to automate reasoning above overlooked aspects and quality dimensions of web standards, developer practices and user experience.   
 
 - Wholeheartedly committed to keep building accessible and internationalized robust interfaces with a resilient architecture
 - 120+ issues across Github repos created with meaning, aligning dependencies to project usage cases
